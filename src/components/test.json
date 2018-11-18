@@ -1,0 +1,11 @@
+usuario : {
+    nombre: "Pepe",
+    apellido: "mendez",
+    carreras:{
+        123781253: {
+        }
+    }
+}
+
+
+bd.usuarios.find({})
